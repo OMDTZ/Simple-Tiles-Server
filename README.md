@@ -1,4 +1,4 @@
-# THE PROCESS OF CUTTING IMAGES FROM image.tif AND SAVING THEM IN THE SERVER
+# Introduction
 
 ## REQUIREMENTS…
 - Linux operating system 
